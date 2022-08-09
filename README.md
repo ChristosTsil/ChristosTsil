@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChristosTsil
-- 👀 I’m interested in Science!
-- 🌱 I’m currently learning Python and SqLite.
+- 👀 I’m interested in Engineering!
+- 🌱 I’m currently learning Python and ML.
 - 💞️ I’m not looking to collaborate on something right now 😝.
 - 📫 How to reach me: christsilis1@gmail.com
 
